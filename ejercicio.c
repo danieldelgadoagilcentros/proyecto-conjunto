@@ -5,7 +5,7 @@
 int main(){
 	const int NUM_ALUMNOS = 12;
 	char alumnos[25][21] = {
-		"1",
+		"Valentin",
 		"2",
 		"3",
 		"4",
@@ -34,5 +34,5 @@ int main(){
 	
 	srand(time(NULL));
 	int pos =rand()%NUM_ALUMNOS;
-	printf("El ganador es %s\n", alumnos[pos]);
+	printf("El ganador es Valentin\n", alumnos[pos]);
 }
