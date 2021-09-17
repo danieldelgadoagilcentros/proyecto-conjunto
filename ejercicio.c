@@ -7,7 +7,7 @@ int main(){
 	char alumnos[25][21] = {
 		"Valentin",
 		"2",
-		"3",
+		"Ben",
 		"4",
 		"5",
 		"6",
