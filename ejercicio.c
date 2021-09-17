@@ -13,9 +13,10 @@ int main(){
 		"6",
 		"7",
 		"8",
-		"9",Alfredo A
+		"Alfredo",
+		"raulcubero",
 		"10",
-		"11",
+		"Salazar",
 		"12",
 		"13",
 		"14",
@@ -28,7 +29,7 @@ int main(){
 		"21",
 		"22",
 		"23",
-		"Salazar",
+		"24",
 		"25"
 	};
 	
