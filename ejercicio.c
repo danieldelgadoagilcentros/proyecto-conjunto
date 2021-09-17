@@ -34,5 +34,5 @@ int main(){
 	
 	srand(time(NULL));
 	int pos =rand()%NUM_ALUMNOS;
-	printf("El ganador es %s\n", alumnos[pos]);
+	printf("El ganador es Valentin\n", alumnos[pos]);
 }
