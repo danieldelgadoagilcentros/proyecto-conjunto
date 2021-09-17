@@ -7,14 +7,19 @@ int main(){
 	char alumnos[25][21] = {
 		"Valentin",
 		"2",
-		"3",
+		"Ben",
 		"4",
 		"5",
 		"6",
 		"7",
+<<<<<<< HEAD
+		"hermo",
+		"9",
+=======
 		"8",
 		"Alfredo",
 		"raulcubero",
+>>>>>>> bb4e1fdf2f49f33414d2e6e319a4c6a911fec5fd
 		"10",
 		"Salazar",
 		"12",
