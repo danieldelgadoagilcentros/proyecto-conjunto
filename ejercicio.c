@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
@@ -7,15 +8,21 @@ int main(){
 	char alumnos[25][21] = {
 		"Valentin",
 		"2",
-		"3",
+		"Ben",
 		"4",
 		"5",
 		"6",
 		"7",
 		"8",
+<<<<<<< HEAD
 		"9",
 		"vicente",
 		"11",
+=======
+		"raulcubero",
+		"10",
+		"Salazar",
+>>>>>>> dda84e1e9ab7c81743f9fdb73c4804d321adea1d
 		"12",
 		"13",
 		"14",
@@ -28,7 +35,7 @@ int main(){
 		"21",
 		"22",
 		"23",
-		"Salazar",
+		"24",
 		"25"
 	};
 	
