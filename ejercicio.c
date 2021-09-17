@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 int main(){
-	const int NUM_ALUMNOS = 25;
+	const int NUM_ALUMNOS = 12;
 	char alumnos[25][21] = {
 		"1",
 		"2",
