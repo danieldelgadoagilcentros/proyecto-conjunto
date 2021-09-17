@@ -1,4 +1,4 @@
-vicente#include <stdio.h>
+#include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
 
@@ -14,7 +14,7 @@ int main(){
 		"7",
 		"8",
 		"9",
-		"10",
+		"vicente",
 		"11",
 		"12",
 		"13",
