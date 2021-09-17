@@ -5,7 +5,7 @@
 int main(){
 	const int NUM_ALUMNOS = 12;
 	char alumnos[25][21] = {
-		"1",
+		"Valentin",
 		"2",
 		"3",
 		"4",
